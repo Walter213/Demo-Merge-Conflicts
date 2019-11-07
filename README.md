@@ -1,3 +1,4 @@
 # Demo-Merge-Conflicts
+Demo Merge conflict assignment
 
-by Walter Teljega
+demo, by Walter Teljega, for DMIT2018
